@@ -1,0 +1,6 @@
+
+Hello.cs 있는 폴더로 이동 
+
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe ( csc.exe 가 있는 경로 ) + Hello.cs  // 엔터로 실행후 파일 이름 입력 후 엔터
+Hello 
+
