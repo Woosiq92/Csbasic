@@ -1,0 +1,6 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\004_Type\bin\Debug\004_Type.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\004_Type\bin\Debug\004_Type.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\004_Type\bin\Debug\004_Type.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\004_Type\obj\Debug\004_Variable.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\004_Type\obj\Debug\004_Type.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\004_Type\obj\Debug\004_Type.pdb

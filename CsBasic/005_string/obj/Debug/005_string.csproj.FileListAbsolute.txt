@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\005_string\bin\Debug\005_string.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\005_string\bin\Debug\005_string.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\005_string\bin\Debug\005_string.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\005_string\obj\Debug\005_string.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\005_string\obj\Debug\005_string.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\005_string\obj\Debug\005_string.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\005_string\obj\Debug\005_string.pdb
