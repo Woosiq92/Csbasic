@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\bin\Debug\009_ConsoleFormat.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\bin\Debug\009_ConsoleFormat.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\bin\Debug\009_ConsoleFormat.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.pdb
