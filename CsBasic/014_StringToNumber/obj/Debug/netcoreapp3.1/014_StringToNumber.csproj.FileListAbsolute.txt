@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\bin\Debug\netcoreapp3.1\014_StringToNumber.exe
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\bin\Debug\netcoreapp3.1\014_StringToNumber.deps.json
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\bin\Debug\netcoreapp3.1\014_StringToNumber.runtimeconfig.json
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\bin\Debug\netcoreapp3.1\014_StringToNumber.runtimeconfig.dev.json
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\bin\Debug\netcoreapp3.1\014_StringToNumber.dll
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\bin\Debug\netcoreapp3.1\014_StringToNumber.pdb
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\obj\Debug\netcoreapp3.1\014_StringToNumber.csprojAssemblyReference.cache
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\obj\Debug\netcoreapp3.1\014_StringToNumber.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\obj\Debug\netcoreapp3.1\014_StringToNumber.AssemblyInfo.cs
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\obj\Debug\netcoreapp3.1\014_StringToNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\obj\Debug\netcoreapp3.1\014_StringToNumber.dll
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\obj\Debug\netcoreapp3.1\014_StringToNumber.pdb
+C:\Users\user\Desktop\git\Cs\CsBasic\014_StringToNumber\obj\Debug\netcoreapp3.1\014_StringToNumber.genruntimeconfig.cache

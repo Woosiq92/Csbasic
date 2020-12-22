@@ -26,7 +26,16 @@ namespace _009_ConsoleFormat
 
             //3. 형식문자열 앞에 $ 기호를 사용하는 문자열 보간 방법(string interpolation) 
 
-            Console.WriteLine($"v1 = {v1}, v2 = {v2}"); 
+            Console.WriteLine($"v1 = {v1}, v2 = {v2}");
+
+            //011 형식 지정자를 사용하는 String.Format() 과 ToString()
+            Console.WriteLine("{0:N2}", 1234.5678); // 
+            Console.WriteLine("{0:D8}", 1234);  
+            Console.WriteLine("{0:F3}", 1234.56); // 소수점 
+
+            Console.WriteLine(1234.5678.ToString("N2"));
+
+            Console.WriteLine("{0:#.##}", 1234.5678);
 
         }
     }

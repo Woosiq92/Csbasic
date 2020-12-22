@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2002
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Variable", "004_Type\004_Variable.csproj", "{D77F656F-4EBD-4722-A6F5-8AFB7670B35E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_string", "005_string\005_string.csproj", "{F09C1D87-F5AF-4DCF-BB0E-AFB884C0EBF3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_ConsoleFormat", "009_ConsoleFormat\009_ConsoleFormat.csproj", "{E88CDD1B-371D-4157-BD9C-381A17B01A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_StringToNumber", "014_StringToNumber\014_StringToNumber.csproj", "{D421352A-175E-4BEF-A1C2-47FBB139C6D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E88CDD1B-371D-4157-BD9C-381A17B01A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E88CDD1B-371D-4157-BD9C-381A17B01A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E88CDD1B-371D-4157-BD9C-381A17B01A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D421352A-175E-4BEF-A1C2-47FBB139C6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D421352A-175E-4BEF-A1C2-47FBB139C6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D421352A-175E-4BEF-A1C2-47FBB139C6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D421352A-175E-4BEF-A1C2-47FBB139C6D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

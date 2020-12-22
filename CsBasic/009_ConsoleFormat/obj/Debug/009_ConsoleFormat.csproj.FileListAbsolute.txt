@@ -5,3 +5,10 @@ C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_Con
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.csproj.CoreCompileInputs.cache
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.exe
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.pdb
+C:\Users\user\Desktop\git\Cs\CsBasic\009_ConsoleFormat\bin\Debug\009_ConsoleFormat.exe.config
+C:\Users\user\Desktop\git\Cs\CsBasic\009_ConsoleFormat\bin\Debug\009_ConsoleFormat.exe
+C:\Users\user\Desktop\git\Cs\CsBasic\009_ConsoleFormat\bin\Debug\009_ConsoleFormat.pdb
+C:\Users\user\Desktop\git\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.csprojAssemblyReference.cache
+C:\Users\user\Desktop\git\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.exe
+C:\Users\user\Desktop\git\Cs\CsBasic\009_ConsoleFormat\obj\Debug\009_ConsoleFormat.pdb

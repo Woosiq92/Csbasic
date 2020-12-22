@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\git\c-basic\A003_Console\A003_Console\bin\Debug\A003_Console.exe.config
+C:\Users\user\Desktop\git\c-basic\A003_Console\A003_Console\bin\Debug\A003_Console.exe
+C:\Users\user\Desktop\git\c-basic\A003_Console\A003_Console\bin\Debug\A003_Console.pdb
+C:\Users\user\Desktop\git\c-basic\A003_Console\A003_Console\obj\Debug\A003_Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git\c-basic\A003_Console\A003_Console\obj\Debug\A003_Console.exe
+C:\Users\user\Desktop\git\c-basic\A003_Console\A003_Console\obj\Debug\A003_Console.pdb
