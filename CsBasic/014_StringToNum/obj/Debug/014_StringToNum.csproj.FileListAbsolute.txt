@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\014_StringToNum\bin\Debug\014_StringToNum.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\014_StringToNum\bin\Debug\014_StringToNum.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\014_StringToNum\bin\Debug\014_StringToNum.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\014_StringToNum\obj\Debug\014_StringToNum.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\014_StringToNum\obj\Debug\014_StringToNum.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\014_StringToNum\obj\Debug\014_StringToNum.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\014_StringToNum\obj\Debug\014_StringToNum.pdb

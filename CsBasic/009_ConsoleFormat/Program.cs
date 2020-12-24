@@ -37,6 +37,8 @@ namespace _009_ConsoleFormat
 
             Console.WriteLine("{0:#.##}", 1234.5678);
 
+
+
         }
     }
 }

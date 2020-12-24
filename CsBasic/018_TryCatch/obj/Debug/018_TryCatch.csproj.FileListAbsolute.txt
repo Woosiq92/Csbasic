@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\018_TryCatch\bin\Debug\018_TryCatch.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\018_TryCatch\bin\Debug\018_TryCatch.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\018_TryCatch\bin\Debug\018_TryCatch.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\018_TryCatch\obj\Debug\018_TryCatch.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\018_TryCatch\obj\Debug\018_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\018_TryCatch\obj\Debug\018_TryCatch.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\018_TryCatch\obj\Debug\018_TryCatch.pdb
