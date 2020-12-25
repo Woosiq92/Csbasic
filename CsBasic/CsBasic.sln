@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_StringToNum", "014_Stri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_TryCatch", "018_TryCatch\018_TryCatch.csproj", "{C18CBEF4-29FE-4809-8727-27F7F3443F63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025_StringMethods", "StringMethods\025_StringMethods.csproj", "{D4CC3941-04C5-4CA4-8E94-3359A38E1373}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C18CBEF4-29FE-4809-8727-27F7F3443F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C18CBEF4-29FE-4809-8727-27F7F3443F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C18CBEF4-29FE-4809-8727-27F7F3443F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CC3941-04C5-4CA4-8E94-3359A38E1373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CC3941-04C5-4CA4-8E94-3359A38E1373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CC3941-04C5-4CA4-8E94-3359A38E1373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CC3941-04C5-4CA4-8E94-3359A38E1373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
