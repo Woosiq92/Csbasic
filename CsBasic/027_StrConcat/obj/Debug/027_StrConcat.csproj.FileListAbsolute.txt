@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\027_StrConcat\bin\Debug\027_StrConcat.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\027_StrConcat\bin\Debug\027_StrConcat.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\027_StrConcat\bin\Debug\027_StrConcat.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\027_StrConcat\obj\Debug\027_StrConcat.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\027_StrConcat\obj\Debug\027_StrConcat.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\027_StrConcat\obj\Debug\027_StrConcat.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\027_StrConcat\obj\Debug\027_StrConcat.pdb

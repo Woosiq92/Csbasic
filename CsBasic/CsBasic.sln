@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_TryCatch", "018_TryCatc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "025_StringMethods", "StringMethods\025_StringMethods.csproj", "{D4CC3941-04C5-4CA4-8E94-3359A38E1373}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "027_StrConcat", "027_StrConcat\027_StrConcat.csproj", "{B6098A42-800B-4B9D-87C8-4F979E5C65B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D4CC3941-04C5-4CA4-8E94-3359A38E1373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4CC3941-04C5-4CA4-8E94-3359A38E1373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4CC3941-04C5-4CA4-8E94-3359A38E1373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6098A42-800B-4B9D-87C8-4F979E5C65B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6098A42-800B-4B9D-87C8-4F979E5C65B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6098A42-800B-4B9D-87C8-4F979E5C65B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6098A42-800B-4B9D-87C8-4F979E5C65B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

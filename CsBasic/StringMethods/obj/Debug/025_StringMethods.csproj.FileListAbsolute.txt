@@ -4,3 +4,4 @@ C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\StringMethods\bin\Debug\StringMetho
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\StringMethods\obj\Debug\025_StringMethods.csproj.CoreCompileInputs.cache
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\StringMethods\obj\Debug\StringMethods.exe
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\StringMethods\obj\Debug\StringMethods.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\StringMethods\obj\Debug\025_StringMethods.csprojResolveAssemblyReference.cache

@@ -48,7 +48,23 @@ namespace StringMethods
 
             String[] val = { "apple", "orrange", "grape", "pear" }; // 배열 var를 선언하고 초기화 
             String result = String.Join(", ", val); // 배열 각 요소를 "," 으로 연결하여 리턴 
-            Console.WriteLine(result); 
+            Console.WriteLine(result);
+
+            // 026 String.split 
+
+            Console.Write("더하고자 하는 숫자들을 입력 : ");
+            string s1 = Console.ReadLine(); // 10 20 30 40 50 
+            Console.WriteLine(s1);
+
+            int sum = 0;
+            string[] v = s1.Split(); 
+            foreach(var i in v) // 배열에 저장된 개수가 몇개인지 알 수 없으므로 
+            {
+                sum += int.Parse(i);  // 각 요소를 정수로 변환하여 더함 
+            }
+            Console.WriteLine("결과는 {0}", sum);
+
+           
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\029_GroupSeparator\bin\Debug\029_GroupSeparator.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\029_GroupSeparator\bin\Debug\029_GroupSeparator.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\029_GroupSeparator\bin\Debug\029_GroupSeparator.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\029_GroupSeparator\obj\Debug\029_GroupSeparator.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\029_GroupSeparator\obj\Debug\029_GroupSeparator.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\029_GroupSeparator\obj\Debug\029_GroupSeparator.pdb
