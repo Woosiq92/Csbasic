@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\036_null\bin\Debug\036_null.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\036_null\bin\Debug\036_null.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\036_null\bin\Debug\036_null.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\036_null\obj\Debug\036_null.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\036_null\obj\Debug\036_null.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\036_null\obj\Debug\036_null.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\036_null\obj\Debug\036_null.pdb

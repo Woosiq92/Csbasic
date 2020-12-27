@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\031_StringBuilder\bin\Debug\031_StringBuilder.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\031_StringBuilder\bin\Debug\031_StringBuilder.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\031_StringBuilder\bin\Debug\031_StringBuilder.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\031_StringBuilder\obj\Debug\031_StringBuilder.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\031_StringBuilder\obj\Debug\031_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\031_StringBuilder\obj\Debug\031_StringBuilder.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\031_StringBuilder\obj\Debug\031_StringBuilder.pdb

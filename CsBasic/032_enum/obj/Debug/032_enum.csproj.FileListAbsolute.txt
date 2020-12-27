@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\032_enum\bin\Debug\032_enum.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\032_enum\bin\Debug\032_enum.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\032_enum\bin\Debug\032_enum.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\032_enum\obj\Debug\032_enum.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\032_enum\obj\Debug\032_enum.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\032_enum\obj\Debug\032_enum.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\032_enum\obj\Debug\032_enum.pdb
