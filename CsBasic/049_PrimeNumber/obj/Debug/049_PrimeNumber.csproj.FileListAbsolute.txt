@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\049_PrimeNumber\bin\Debug\049_PrimeNumber.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\049_PrimeNumber\bin\Debug\049_PrimeNumber.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\049_PrimeNumber\bin\Debug\049_PrimeNumber.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\049_PrimeNumber\obj\Debug\049_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\049_PrimeNumber\obj\Debug\049_PrimeNumber.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\049_PrimeNumber\obj\Debug\049_PrimeNumber.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\049_PrimeNumber\obj\Debug\049_PrimeNumber.csprojResolveAssemblyReference.cache

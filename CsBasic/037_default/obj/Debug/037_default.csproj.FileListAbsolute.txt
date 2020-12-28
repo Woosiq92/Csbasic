@@ -4,3 +4,4 @@ C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\037_default\bin\Debug\037_default.p
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\037_default\obj\Debug\037_default.csproj.CoreCompileInputs.cache
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\037_default\obj\Debug\037_default.exe
 C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\037_default\obj\Debug\037_default.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\037_default\obj\Debug\037_default.csprojResolveAssemblyReference.cache

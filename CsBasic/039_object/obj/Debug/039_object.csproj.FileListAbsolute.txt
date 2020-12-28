@@ -1,0 +1,7 @@
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\039_object\bin\Debug\039_object.exe.config
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\039_object\bin\Debug\039_object.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\039_object\bin\Debug\039_object.pdb
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\039_object\obj\Debug\039_object.csprojResolveAssemblyReference.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\039_object\obj\Debug\039_object.csproj.CoreCompileInputs.cache
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\039_object\obj\Debug\039_object.exe
+C:\Users\woosik\Desktop\codestudy\Cs\CsBasic\039_object\obj\Debug\039_object.pdb
