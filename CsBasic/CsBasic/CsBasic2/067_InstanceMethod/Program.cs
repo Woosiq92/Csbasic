@@ -12,6 +12,7 @@ namespace _067_InstanceMethod
         public int year, month, day;
 
         public static bool IsLeapYear(int year) // 윤년이면 true 를 리턴하는 메소드 ( 함수 x) 
+                                // static 으로 메소드(정적 메소드 or 클래스 메소드)를 만들어 주면 객체를 만들지 않고 사용할 수 있다. 
         {
             return year % 4 == 0 && (year % 100 != 0 || year % 400 == 0);
         }

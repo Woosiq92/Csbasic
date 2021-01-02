@@ -79,7 +79,7 @@ namespace _069_Property
 
             RectWithPropFull r3 = new RectWithPropFull();
             r3.Width = 10.0;
-            r3.Height = -10.0;
+            r3.Height = -10.0; // 0 보다 클 떄만 
             Console.WriteLine("r3의 면적은 {0}", r3.Width * r3.Height); 
         }
     }
