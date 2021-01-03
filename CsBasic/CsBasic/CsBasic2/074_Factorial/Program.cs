@@ -25,8 +25,16 @@ namespace _074_Factorial
             }
             Console.WriteLine("1! ~ 10! 의 합 = {0, 8:N0}", sum);
 
-            // 076 두 숫자 사이의 모든 정수 값을 더하는 메소드 
+            // 078 원의 면적을 계산  메소드
+            for (double r = 1; r < 10; r++)
+                Console.WriteLine("circle with radius {0, 2} = {1,7:F2}", r, AreaOfCircle(r));
+
             
+        }
+
+        private static double AreaOfCircle(double r)
+        {
+            return Math.PI * r * r; 
         }
 
         private static int Factorial(int n)
